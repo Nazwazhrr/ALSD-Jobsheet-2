@@ -5,7 +5,7 @@ public class MahasiswaMain15 {
     mhs1.nim = "2241720171";
     mhs1.kelas = "SI 2J";
     mhs1.ipk = 3.55;
-
+    
     mhs1.tampilkaninformasi();
     mhs1.ubahKelas("SI 2K");
     mhs1.updateIpk(3.60);
