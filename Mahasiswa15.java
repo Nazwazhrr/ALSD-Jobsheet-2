@@ -23,7 +23,7 @@ public class Mahasiswa15 {
             System.out.println("IPK tidak valid. Harus antara 0.0 dan 4.0");
         }
     }
-
+    
     String nilaiKinerja(double ipk) {
         if (ipk >= 3.5){
             return "Kinerja sangat baik";
